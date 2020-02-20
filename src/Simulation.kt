@@ -1,7 +1,7 @@
-data class Simulation(
-    var days: Int,
-    var totBooks: Int,
-    var totLibraries: Int,
-    var books: List<Int>,
-    val libraries: List<Library>
-)
+object Simulation {
+    var days: Int = 0
+    var totBooks: Int = 0
+    var totLibraries: Int = 0
+    var books: List<Int> = listOf()
+    val libraries: List<Library> = listOf()
+}

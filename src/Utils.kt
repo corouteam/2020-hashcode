@@ -1,0 +1,1 @@
+fun Int.asProportionWith(p2: Int) = this/p2
