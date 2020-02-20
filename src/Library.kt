@@ -1,6 +1,6 @@
 data class Library(
     val id: Int,
-    val books: Set<Int>,
+    var books: Set<Int>,
     val signTime: Int,
     val booksForDay: Int
 ) {
