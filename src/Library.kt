@@ -6,6 +6,7 @@ data class Library(
 ) {
 
     fun getScore(){
+        
 
     }
 }

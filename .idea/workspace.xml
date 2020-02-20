@@ -6,9 +6,7 @@
     <ignored path="$PROJECT_DIR$/out/" />
 =======
     <list default="true" id="c30b77a5-6d95-449a-962e-c2132cd20f73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Library.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Library.kt" afterDir="false" />
     </list>
 >>>>>>> b813e56da29abf3365aa8aa65aaec88e93badfdd
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
